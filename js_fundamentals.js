@@ -37,3 +37,5 @@ students = {
 }
 
 console.log(students)
+
+console.log(typeof(isDev))
