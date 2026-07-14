@@ -29,3 +29,11 @@ console.log(is_equal)
 known_lang = ["python", "js", "ts", "tamil", "English", 43]
 
 console.log(known_lang)
+
+students = {
+    name: "santhosh",
+    age: 23,
+    xerox: true
+}
+
+console.log(students)
