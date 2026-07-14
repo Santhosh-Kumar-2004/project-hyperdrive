@@ -14,3 +14,4 @@ console.log(firstname + " " + lastname + "'s age is" + " " + age_of_san + " " + 
 var name = "santhosh"
 
 console.log(name)
+
