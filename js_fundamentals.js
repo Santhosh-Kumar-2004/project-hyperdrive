@@ -14,3 +14,30 @@ console.log(firstname + " " + lastname + "'s age is" + " " + age_of_san + " " + 
 var name = "santhosh"
 
 console.log(name)
+
+const someone_age = "21"
+
+is_age_equal = age_of_san === someone_age
+
+console.log(is_age_equal)
+
+is_equal = age_of_san == someone_age
+
+console.log(is_equal)
+
+
+known_lang = ["python", "js", "ts", "tamil", "English", 43]
+
+console.log(known_lang)
+
+students = {
+    name: "santhosh",
+    age: 23,
+    xerox: true
+}
+
+console.log(students)
+
+console.log(typeof(isDev))
+
+console.log(isDev !== age_of_san)
