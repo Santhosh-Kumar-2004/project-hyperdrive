@@ -15,8 +15,12 @@ var name = "santhosh"
 
 console.log(name)
 
-const someone_age = 21
+const someone_age = "21"
 
 is_age_equal = age_of_san === someone_age
 
 console.log(is_age_equal)
+
+is_equal = age_of_san == someone_age
+
+console.log(is_equal)
