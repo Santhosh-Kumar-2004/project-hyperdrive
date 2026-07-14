@@ -24,3 +24,8 @@ console.log(is_age_equal)
 is_equal = age_of_san == someone_age
 
 console.log(is_equal)
+
+
+known_lang = ["python", "js", "ts", "tamil", "English", 43]
+
+console.log(known_lang)
