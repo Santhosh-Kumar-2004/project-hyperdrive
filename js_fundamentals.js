@@ -39,3 +39,5 @@ students = {
 console.log(students)
 
 console.log(typeof(isDev))
+
+console.log(isDev !== age_of_san)
